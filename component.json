@@ -1,0 +1,6 @@
+{
+    "repos": "https://github.com/huya-fed/alloy_touch.git",
+    "version": "v0.2.5",
+    "name": "alloy_touch",
+    "main": "alloy_touch.js"
+}
